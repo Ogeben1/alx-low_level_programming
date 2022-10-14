@@ -1,8 +1,7 @@
-#include <stdio.h>
 #include <unistd.h>
 /**
 *main - Entry point
-Return: 1 on success
+Return: 1on success
 */
 int main(void)
 {
