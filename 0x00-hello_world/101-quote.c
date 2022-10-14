@@ -1,7 +1,7 @@
 #include <unistd.h>
 /**
 *main - program entry point
-Return: Always 0 (Success)
+return: Always 0 (Success)
 */
 int main(void)
 {
