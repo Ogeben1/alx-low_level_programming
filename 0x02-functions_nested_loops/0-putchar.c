@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
 * main - Prints Holberton as a message.
 *
@@ -16,4 +17,4 @@ _putchar(str[count]);
 }
 _putchar('\n');
 return (0);
-} 
+}
