@@ -1,6 +1,5 @@
-Task 1
-
-#include "main.h"
+#inclde <stdlib.h>
+#include "holberton.h"
 
 /**
  * *_strdup - copies the string given as parameter
